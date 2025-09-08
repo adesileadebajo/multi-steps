@@ -1,0 +1,19 @@
+:root {
+  background-color: rgb(141, 117, 117);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+h2 {
+  color: rgb(107, 19, 45);
+}
+
+p {
+  color: rgb(241, 243, 233);
+}
+
+button {
+  background-color: rgb(100, 100, 15);
+  color: antiquewhite;
+  width: 100px;
+}
